@@ -1,0 +1,21 @@
+﻿<Window x:Class="laba12.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:laba12"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="561.927" Width="1233.251" Loaded="Window_Loaded">
+    <Grid>
+        <DataGrid x:Name="mainGrid" HorizontalAlignment="Left" Height="185" Margin="30,45,0,0" VerticalAlignment="Top" Width="538"  />
+        <Button Content="Predict" HorizontalAlignment="Left" Margin="692,45,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click"/>
+        <DataGrid x:Name="collGrid" HorizontalAlignment="Left" Height="100" Margin="30,302,0,0" VerticalAlignment="Top" Width="538"/>
+        <ComboBox x:Name="combo1" HorizontalAlignment="Left" Margin="848,43,0,0" VerticalAlignment="Top" Width="120" SelectionChanged="ComboBox_SelectionChanged"/>
+        <Button Content="Cancel" HorizontalAlignment="Left" Margin="692,108,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_1"/>
+        <Button Content="Trans" HorizontalAlignment="Left" Margin="692,162,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_2"/>
+        <Button Content="cancel last" HorizontalAlignment="Left" Margin="848,108,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_3"/>
+        <Button Content="Save" HorizontalAlignment="Left" Margin="664,230,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_5"/>
+        <Button Content="Logs" HorizontalAlignment="Left" Margin="781,372,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_6"/>
+
+    </Grid>
+</Window>

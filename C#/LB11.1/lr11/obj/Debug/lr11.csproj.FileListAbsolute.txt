@@ -1,0 +1,148 @@
+C:\Users\HP\Desktop\БД\lr11\lr11\bin\Debug\lr11.exe.config
+C:\Users\HP\Desktop\БД\lr11\lr11\bin\Debug\lr11.exe
+C:\Users\HP\Desktop\БД\lr11\lr11\bin\Debug\lr11.pdb
+C:\Users\HP\Desktop\БД\lr11\lr11\bin\Debug\EntityFramework.dll
+C:\Users\HP\Desktop\БД\lr11\lr11\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HP\Desktop\БД\lr11\lr11\bin\Debug\Microsoft.AspNet.Scaffolding.EntityFramework.12.0.dll
+C:\Users\HP\Desktop\БД\lr11\lr11\bin\Debug\MySql.Data.dll
+C:\Users\HP\Desktop\БД\lr11\lr11\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\HP\Desktop\БД\lr11\lr11\bin\Debug\System.Resources.Extensions.dll
+C:\Users\HP\Desktop\БД\lr11\lr11\bin\Debug\System.ServiceModel.DomainServices.EntityFramework.dll
+C:\Users\HP\Desktop\БД\lr11\lr11\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\HP\Desktop\БД\lr11\lr11\bin\Debug\EnvDTE.dll
+C:\Users\HP\Desktop\БД\lr11\lr11\bin\Debug\EnvDTE80.dll
+C:\Users\HP\Desktop\БД\lr11\lr11\bin\Debug\Microsoft.AspNet.Scaffolding.12.0.dll
+C:\Users\HP\Desktop\БД\lr11\lr11\bin\Debug\VSLangProj.dll
+C:\Users\HP\Desktop\БД\lr11\lr11\bin\Debug\Google.Protobuf.dll
+C:\Users\HP\Desktop\БД\lr11\lr11\bin\Debug\Zstandard.Net.dll
+C:\Users\HP\Desktop\БД\lr11\lr11\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\HP\Desktop\БД\lr11\lr11\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\HP\Desktop\БД\lr11\lr11\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\HP\Desktop\БД\lr11\lr11\bin\Debug\Renci.SshNet.dll
+C:\Users\HP\Desktop\БД\lr11\lr11\bin\Debug\System.Memory.dll
+C:\Users\HP\Desktop\БД\lr11\lr11\bin\Debug\System.ServiceModel.DomainServices.Server.dll
+C:\Users\HP\Desktop\БД\lr11\lr11\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HP\Desktop\БД\lr11\lr11\bin\Debug\stdole.dll
+C:\Users\HP\Desktop\БД\lr11\lr11\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\HP\Desktop\БД\lr11\lr11\bin\Debug\Microsoft.VisualStudio.Shell.Design.dll
+C:\Users\HP\Desktop\БД\lr11\lr11\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\HP\Desktop\БД\lr11\lr11\bin\Debug\Microsoft.VisualStudio.TextTemplating.Interfaces.11.0.dll
+C:\Users\HP\Desktop\БД\lr11\lr11\bin\Debug\Microsoft.VisualStudio.TextTemplating.Interfaces.10.0.dll
+C:\Users\HP\Desktop\БД\lr11\lr11\bin\Debug\Microsoft.VisualStudio.Shell.Framework.dll
+C:\Users\HP\Desktop\БД\lr11\lr11\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\HP\Desktop\БД\lr11\lr11\bin\Debug\Microsoft.VisualStudio.Shell.15.0.dll
+C:\Users\HP\Desktop\БД\lr11\lr11\bin\Debug\System.Buffers.dll
+C:\Users\HP\Desktop\БД\lr11\lr11\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\HP\Desktop\БД\lr11\lr11\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\HP\Desktop\БД\lr11\lr11\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\HP\Desktop\БД\lr11\lr11\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\HP\Desktop\БД\lr11\lr11\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\HP\Desktop\БД\lr11\lr11\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\HP\Desktop\БД\lr11\lr11\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\HP\Desktop\БД\lr11\lr11\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\HP\Desktop\БД\lr11\lr11\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\HP\Desktop\БД\lr11\lr11\bin\Debug\System.Collections.Immutable.dll
+C:\Users\HP\Desktop\БД\lr11\lr11\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\HP\Desktop\БД\lr11\lr11\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\HP\Desktop\БД\lr11\lr11\bin\Debug\Microsoft.MSXML.dll
+C:\Users\HP\Desktop\БД\lr11\lr11\bin\Debug\EntityFramework.xml
+C:\Users\HP\Desktop\БД\lr11\lr11\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HP\Desktop\БД\lr11\lr11\bin\Debug\Microsoft.AspNet.Scaffolding.EntityFramework.12.0.xml
+C:\Users\HP\Desktop\БД\lr11\lr11\bin\Debug\MySql.Data.xml
+C:\Users\HP\Desktop\БД\lr11\lr11\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\HP\Desktop\БД\lr11\lr11\bin\Debug\System.ServiceModel.DomainServices.EntityFramework.xml
+C:\Users\HP\Desktop\БД\lr11\lr11\bin\Debug\Microsoft.AspNet.Scaffolding.12.0.xml
+C:\Users\HP\Desktop\БД\lr11\lr11\bin\Debug\System.ServiceModel.DomainServices.Server.xml
+C:\Users\HP\Desktop\БД\lr11\lr11\bin\Debug\Microsoft.VisualStudio.GraphModel.xml
+C:\Users\HP\Desktop\БД\lr11\lr11\bin\Debug\de\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+C:\Users\HP\Desktop\БД\lr11\lr11\bin\Debug\es\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+C:\Users\HP\Desktop\БД\lr11\lr11\bin\Debug\fr\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+C:\Users\HP\Desktop\БД\lr11\lr11\bin\Debug\it\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+C:\Users\HP\Desktop\БД\lr11\lr11\bin\Debug\ja\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+C:\Users\HP\Desktop\БД\lr11\lr11\bin\Debug\ko\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+C:\Users\HP\Desktop\БД\lr11\lr11\bin\Debug\ru\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+C:\Users\HP\Desktop\БД\lr11\lr11\bin\Debug\zh-Hans\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+C:\Users\HP\Desktop\БД\lr11\lr11\bin\Debug\zh-Hant\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+C:\Users\HP\Desktop\БД\lr11\lr11\bin\Debug\de\System.ServiceModel.DomainServices.Server.resources.dll
+C:\Users\HP\Desktop\БД\lr11\lr11\bin\Debug\es\System.ServiceModel.DomainServices.Server.resources.dll
+C:\Users\HP\Desktop\БД\lr11\lr11\bin\Debug\fr\System.ServiceModel.DomainServices.Server.resources.dll
+C:\Users\HP\Desktop\БД\lr11\lr11\bin\Debug\it\System.ServiceModel.DomainServices.Server.resources.dll
+C:\Users\HP\Desktop\БД\lr11\lr11\bin\Debug\ja\System.ServiceModel.DomainServices.Server.resources.dll
+C:\Users\HP\Desktop\БД\lr11\lr11\bin\Debug\ko\System.ServiceModel.DomainServices.Server.resources.dll
+C:\Users\HP\Desktop\БД\lr11\lr11\bin\Debug\ru\System.ServiceModel.DomainServices.Server.resources.dll
+C:\Users\HP\Desktop\БД\lr11\lr11\bin\Debug\zh-Hans\System.ServiceModel.DomainServices.Server.resources.dll
+C:\Users\HP\Desktop\БД\lr11\lr11\bin\Debug\zh-Hant\System.ServiceModel.DomainServices.Server.resources.dll
+C:\Users\HP\Desktop\БД\lr11\lr11\bin\Debug\ru\Microsoft.VisualStudio.Shell.Design.resources.dll
+C:\Users\HP\Desktop\БД\lr11\lr11\bin\Debug\ru\Microsoft.VisualStudio.Shell.15.0.resources.dll
+C:\Users\HP\Desktop\БД\lr11\lr11\bin\Debug\ru\Microsoft.VisualStudio.GraphModel.resources.dll
+C:\Users\HP\Desktop\БД\lr11\lr11\obj\Debug\lr11.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\БД\lr11\lr11\obj\Debug\lr11.exe.config
+C:\Users\HP\Desktop\БД\lr11\lr11\obj\Debug\MainWindow.g.cs
+C:\Users\HP\Desktop\БД\lr11\lr11\obj\Debug\App.g.cs
+C:\Users\HP\Desktop\БД\lr11\lr11\obj\Debug\lr11_MarkupCompile.cache
+C:\Users\HP\Desktop\БД\lr11\lr11\obj\Debug\lr11_MarkupCompile.lref
+C:\Users\HP\Desktop\БД\lr11\lr11\obj\Debug\MainWindow.baml
+C:\Users\HP\Desktop\БД\lr11\lr11\obj\Debug\lr11.g.resources
+C:\Users\HP\Desktop\БД\lr11\lr11\obj\Debug\lr11.Properties.Resources.resources
+C:\Users\HP\Desktop\БД\lr11\lr11\obj\Debug\lr11.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\БД\lr11\lr11\obj\Debug\lr11.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\БД\lr11\lr11\obj\Debug\lr11.csproj.CopyComplete
+C:\Users\HP\Desktop\БД\lr11\lr11\obj\Debug\lr11.exe
+C:\Users\HP\Desktop\БД\lr11\lr11\obj\Debug\lr11.pdb
+C:\Users\diens\OneDrive\Рабочий стол\lr11\lr11\bin\Debug\lr11.exe.config
+C:\Users\diens\OneDrive\Рабочий стол\lr11\lr11\bin\Debug\lr11.exe
+C:\Users\diens\OneDrive\Рабочий стол\lr11\lr11\bin\Debug\lr11.pdb
+C:\Users\diens\OneDrive\Рабочий стол\lr11\lr11\bin\Debug\EntityFramework.dll
+C:\Users\diens\OneDrive\Рабочий стол\lr11\lr11\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\diens\OneDrive\Рабочий стол\lr11\lr11\bin\Debug\MySql.Data.dll
+C:\Users\diens\OneDrive\Рабочий стол\lr11\lr11\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\diens\OneDrive\Рабочий стол\lr11\lr11\bin\Debug\Google.Protobuf.dll
+C:\Users\diens\OneDrive\Рабочий стол\lr11\lr11\bin\Debug\Zstandard.Net.dll
+C:\Users\diens\OneDrive\Рабочий стол\lr11\lr11\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\diens\OneDrive\Рабочий стол\lr11\lr11\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\diens\OneDrive\Рабочий стол\lr11\lr11\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\diens\OneDrive\Рабочий стол\lr11\lr11\bin\Debug\Renci.SshNet.dll
+C:\Users\diens\OneDrive\Рабочий стол\lr11\lr11\bin\Debug\System.Memory.dll
+C:\Users\diens\OneDrive\Рабочий стол\lr11\lr11\bin\Debug\System.ServiceModel.DomainServices.Server.dll
+C:\Users\diens\OneDrive\Рабочий стол\lr11\lr11\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\diens\OneDrive\Рабочий стол\lr11\lr11\bin\Debug\System.Buffers.dll
+C:\Users\diens\OneDrive\Рабочий стол\lr11\lr11\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\diens\OneDrive\Рабочий стол\lr11\lr11\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\diens\OneDrive\Рабочий стол\lr11\lr11\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\diens\OneDrive\Рабочий стол\lr11\lr11\bin\Debug\EntityFramework.xml
+C:\Users\diens\OneDrive\Рабочий стол\lr11\lr11\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\diens\OneDrive\Рабочий стол\lr11\lr11\bin\Debug\MySql.Data.xml
+C:\Users\diens\OneDrive\Рабочий стол\lr11\lr11\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\diens\OneDrive\Рабочий стол\lr11\lr11\bin\Debug\System.ServiceModel.DomainServices.EntityFramework.xml
+C:\Users\diens\OneDrive\Рабочий стол\lr11\lr11\bin\Debug\System.ServiceModel.DomainServices.Server.xml
+C:\Users\diens\OneDrive\Рабочий стол\lr11\lr11\bin\Debug\de\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+C:\Users\diens\OneDrive\Рабочий стол\lr11\lr11\bin\Debug\es\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+C:\Users\diens\OneDrive\Рабочий стол\lr11\lr11\bin\Debug\fr\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+C:\Users\diens\OneDrive\Рабочий стол\lr11\lr11\bin\Debug\it\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+C:\Users\diens\OneDrive\Рабочий стол\lr11\lr11\bin\Debug\ja\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+C:\Users\diens\OneDrive\Рабочий стол\lr11\lr11\bin\Debug\ko\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+C:\Users\diens\OneDrive\Рабочий стол\lr11\lr11\bin\Debug\ru\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+C:\Users\diens\OneDrive\Рабочий стол\lr11\lr11\bin\Debug\zh-Hans\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+C:\Users\diens\OneDrive\Рабочий стол\lr11\lr11\bin\Debug\zh-Hant\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+C:\Users\diens\OneDrive\Рабочий стол\lr11\lr11\bin\Debug\de\System.ServiceModel.DomainServices.Server.resources.dll
+C:\Users\diens\OneDrive\Рабочий стол\lr11\lr11\bin\Debug\es\System.ServiceModel.DomainServices.Server.resources.dll
+C:\Users\diens\OneDrive\Рабочий стол\lr11\lr11\bin\Debug\fr\System.ServiceModel.DomainServices.Server.resources.dll
+C:\Users\diens\OneDrive\Рабочий стол\lr11\lr11\bin\Debug\it\System.ServiceModel.DomainServices.Server.resources.dll
+C:\Users\diens\OneDrive\Рабочий стол\lr11\lr11\bin\Debug\ja\System.ServiceModel.DomainServices.Server.resources.dll
+C:\Users\diens\OneDrive\Рабочий стол\lr11\lr11\bin\Debug\ko\System.ServiceModel.DomainServices.Server.resources.dll
+C:\Users\diens\OneDrive\Рабочий стол\lr11\lr11\bin\Debug\ru\System.ServiceModel.DomainServices.Server.resources.dll
+C:\Users\diens\OneDrive\Рабочий стол\lr11\lr11\bin\Debug\zh-Hans\System.ServiceModel.DomainServices.Server.resources.dll
+C:\Users\diens\OneDrive\Рабочий стол\lr11\lr11\bin\Debug\zh-Hant\System.ServiceModel.DomainServices.Server.resources.dll
+C:\Users\diens\OneDrive\Рабочий стол\lr11\lr11\obj\Debug\lr11.csprojAssemblyReference.cache
+C:\Users\diens\OneDrive\Рабочий стол\lr11\lr11\obj\Debug\MainWindow.g.cs
+C:\Users\diens\OneDrive\Рабочий стол\lr11\lr11\obj\Debug\App.g.cs
+C:\Users\diens\OneDrive\Рабочий стол\lr11\lr11\obj\Debug\lr11_MarkupCompile.cache
+C:\Users\diens\OneDrive\Рабочий стол\lr11\lr11\obj\Debug\lr11_MarkupCompile.lref
+C:\Users\diens\OneDrive\Рабочий стол\lr11\lr11\obj\Debug\MainWindow.baml
+C:\Users\diens\OneDrive\Рабочий стол\lr11\lr11\obj\Debug\lr11.g.resources
+C:\Users\diens\OneDrive\Рабочий стол\lr11\lr11\obj\Debug\lr11.Properties.Resources.resources
+C:\Users\diens\OneDrive\Рабочий стол\lr11\lr11\obj\Debug\lr11.csproj.GenerateResource.cache
+C:\Users\diens\OneDrive\Рабочий стол\lr11\lr11\obj\Debug\lr11.csproj.CoreCompileInputs.cache
+C:\Users\diens\OneDrive\Рабочий стол\lr11\lr11\obj\Debug\lr11.csproj.CopyComplete
+C:\Users\diens\OneDrive\Рабочий стол\lr11\lr11\obj\Debug\lr11.exe
+C:\Users\diens\OneDrive\Рабочий стол\lr11\lr11\obj\Debug\lr11.pdb
